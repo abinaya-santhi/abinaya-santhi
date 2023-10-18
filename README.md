@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @abinaya-santhi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-abinaya-santhi/abinaya-santhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+PSEUDOCODE to print sum of two numbers
+BEGIN
+ READ a,b
+ sum=a+b
+ PRINT sum
+END
